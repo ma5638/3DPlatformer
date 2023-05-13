@@ -1,15 +1,9 @@
 # Introduction
 
-First Person Shooter Game
+Animation
 
-Game View Image:\
-![Game View](./screenshots/GameView.png)
+Model Image:\
+![Model](./screenshots/Model.png)
 
-Drone Image:\
-![Drone Image](./screenshots/Drone.png)
-
-2nd Drone Image:\
-![2nd Drone Image](./screenshots/Drone2.png)
-
-Map Image:\
-![Map Image](./screenshots/Map.png)
+Back Hurt Animation:\
+![Animation](./screenshots/Animation.png)
